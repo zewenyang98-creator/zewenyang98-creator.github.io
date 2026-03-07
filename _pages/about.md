@@ -6,7 +6,7 @@ subtitle: PhD student in Outburst Floods | Hydrodynamics | Erosion and deposit p
 
 profile:
   align: right
-  image: 形象照3.jpg
+  image: .jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Student</p>
