@@ -8,7 +8,7 @@ middle_name:
 last_name: Yang
 contact_note: >
   Email: zewenyang21@mails.ucas.ac.cn
-  Wechat:Y18468140883
+  Wechat: Y1846814088
 description: > 
   Personal academic website of Zewen Yang.
   My research focuses on outburst floods, landslide dam breaches,
@@ -17,9 +17,9 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Outburst flood, River morphodynamics, Planetary megaflood geomorphology, Sediment transport, Dam breach,
+keywords: Outburst flood, River morphodynamics, Planetary megaflood geomorphology, Sediment transport, Dam breach
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://zewenyang98-creator.github.io
 baseurl: ""
