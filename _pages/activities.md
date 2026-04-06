@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-![Group Activities](/assets/img/activities-cover.jpg)
+![Group Activities](/assets/img/My cats.jpg)
 
 ## Group Activities
 
