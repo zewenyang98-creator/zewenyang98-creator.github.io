@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+<style>
+  .post-title {
+    display: none;
+  }
+</style>
 
 ## Group Activities
 
