@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activities
+title: Activities
 permalink: /activities/
 nav: true
 nav_order: 6
