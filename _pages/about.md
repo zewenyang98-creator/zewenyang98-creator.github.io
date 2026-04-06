@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student in Outburst Floods | Hydrodynamics | Erosion and deposit process
 
