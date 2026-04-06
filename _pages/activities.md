@@ -10,8 +10,6 @@ nav_order: 6
 
 ## Group Activities
 
-## Group Activities
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 300px;">
