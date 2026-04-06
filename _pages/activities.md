@@ -10,6 +10,4 @@ nav_order: 6
 
 ## Group Activities
 
-- [National Day BBQ](/activities/national-day-bbq/)
-- [Welcome Visit](/activities/welcome-visit/)
-- [Farewell Gathering](/activities/farewell-gathering/)
+- [Calcot party](/activities/calcot-party/)
