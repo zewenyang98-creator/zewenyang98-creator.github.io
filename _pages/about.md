@@ -9,21 +9,21 @@ profile:
   image: zewen1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Student</p>
-    <p>University of Chinese Academy of Sciences</p>
-    <p>Institute of Mountain Hazards and Environment, CAS, Chengdu, China</p>
-    <p>Joint PhD Student, Geo3BCN–CSIC, Barcelona, Spain</p>
+    <p>• PhD Student</p>
+    <p>• University of Chinese Academy of Sciences</p>
+    <p>• Institute of Mountain Hazards and Environment, CAS, Chengdu, China</p>
+    <p>• Joint PhD Student, Geo3BCN–CSIC, Barcelona, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # set to true to show news on the homepage
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # set to true to show recent blog posts on the homepage
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
