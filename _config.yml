@@ -300,7 +300,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Yang, 杨]
-  first_name: [Zewen, Z., 泽文]
+  first_name: [Zewen, Ze-wen, Z., 泽文]
 
   style: apa
   locale: en
