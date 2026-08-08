@@ -35,6 +35,8 @@ cv:
         studyType: B.Eng.
         start_date: 2017-09-01
         end_date: 2021-06-01
+        highlights:
+          - "Undergraduate Supervisor: Prof. Qiu Yong"
 
     Experience:
       - company: Geosciences Barcelona (Geo3BCN-CSIC)
