@@ -62,6 +62,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: inherit;
+    font-size: 1rem;
     font-weight: 700;
 
     p {
@@ -88,6 +89,15 @@ ul.task-list input[type="checkbox"] {
         display: block;
       }
     }
+  }
+}
+
+.post {
+  .post-header .desc,
+  .about-bio {
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 700;
   }
 }
 
