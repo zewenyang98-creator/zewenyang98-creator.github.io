@@ -33,4 +33,4 @@ My research focuses on outburst floods and their geomorphic impacts. I’m espec
 I mainly study catastrophic outburst floods on Earth, and I also extend this work to planetary environments such as Mars. By combining numerical modeling, flume experiments, and field investigations, I analyze how outburst floods shape the landscape across different spatial and temporal scales. Through studying the interactions between flow, sediment, and the riverbed, I aim to better understand how extreme flood events control landform evolution, and more broadly, how extreme hydrodynamic processes influence the evolution of planetary surfaces.
 
 
-Affiliation: Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+**Affiliation: Institute of Mountain Hazards and Environment, Chinese Academy of Sciences**
