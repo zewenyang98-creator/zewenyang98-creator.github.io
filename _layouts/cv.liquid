@@ -158,8 +158,12 @@ layout: default
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
               {% elsif section_title == 'Publications' %}
-                {% assign entries = section_entries %}
-                {% include cv/publications.liquid %}
+                <p class="font-weight-light">
+                  This list is synchronized with the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
+                </p>
+                <div class="publications">
+                  {% bibliography %}
+                </div>
               {% elsif section_title == 'Skills' %}
                 {% assign entries = section_entries %}
                 {% include cv/skills.liquid %}
