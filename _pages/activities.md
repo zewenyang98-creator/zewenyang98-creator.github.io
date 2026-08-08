@@ -53,4 +53,31 @@ nav_order: 6
     </p>
   </div>
 
+  <div style="width: 300px;">
+    <a href="/activities/cat-at-home/">
+      <img src="/assets/img/cat-at-home.png" alt="家里留守的小猫咪" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/cat-at-home/"><strong>家里留守的小猫咪</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
+    <a href="/activities/a-terrible-day/">
+      <img src="/assets/img/a-terrible-day.jpg" alt="心情糟糕透了！" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/a-terrible-day/"><strong>心情糟糕透了！</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
+    <a href="/activities/a-relaxing-coffee-moment/">
+      <img src="/assets/img/a-relaxing-coffee-moment.jpg" alt="咖啡惬意时刻" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/a-relaxing-coffee-moment/"><strong>咖啡惬意时刻</strong></a>
+    </p>
+  </div>
+
 </div>
