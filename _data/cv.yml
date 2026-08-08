@@ -27,6 +27,7 @@ cv:
         end_date: Present
         highlights:
           - Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+          - "Ph.D. Supervisor: Prof. Weiming Liu"
 
       - institution: Yunnan Agricultural University
         location: Kunming, China
@@ -42,6 +43,8 @@ cv:
         start_date: 2026-01-01
         end_date: 2027-01-01
         summary: Joint doctoral training and collaborative research on outburst-flood hydrodynamics, sediment transport, and geomorphic evolution.
+        highlights:
+          - "Host Supervisor: Prof. Daniel Garcia-Castellanos"
 
     Research Interests:
       - bullet: Outburst-flood hydrodynamics and geomorphic impacts
