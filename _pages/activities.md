@@ -35,4 +35,22 @@ nav_order: 6
     </p>
   </div>
 
+  <div style="width: 300px;">
+    <a href="/activities/europe-trip-with-my-wife/">
+      <img src="/assets/img/europe-trip-colosseum.jpg" alt="和老婆的欧洲之旅" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/europe-trip-with-my-wife/"><strong>和老婆的欧洲之旅</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
+    <a href="/activities/dinner-with-my-supervisors-family/">
+      <img src="/assets/img/dinner-with-supervisors-family.jpg" alt="感谢导师一家的招待" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/dinner-with-my-supervisors-family/"><strong>感谢导师一家的招待</strong></a>
+    </p>
+  </div>
+
 </div>
