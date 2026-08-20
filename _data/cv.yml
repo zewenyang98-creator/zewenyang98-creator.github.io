@@ -19,15 +19,6 @@ cv:
 
   sections:
     Education:
-      - institution: Geosciences Barcelona (Geo3BCN-CSIC)
-        location: Barcelona, Spain
-        area: Joint doctoral training and collaborative research on outburst-flood hydrodynamics, sediment transport, and geomorphic evolution.
-        studyType: Joint Ph.D. Student
-        start_date: 2026-01-01
-        end_date: 2027-01-01
-        highlights:
-          - "Host Supervisor: Prof. Daniel Garcia-Castellanos"
-
       - institution: University of Chinese Academy of Sciences
         location: Chengdu, China
         area: Geotechnical Engineering
@@ -37,6 +28,15 @@ cv:
         highlights:
           - Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
           - "Ph.D. Supervisor: Prof. Weiming Liu"
+
+      - institution: Geosciences Barcelona (Geo3BCN-CSIC)
+        location: Barcelona, Spain
+        area: Joint doctoral training and collaborative research on outburst-flood hydrodynamics, sediment transport, and geomorphic evolution.
+        studyType: Joint Ph.D. Student
+        start_date: 2026-01-01
+        end_date: 2027-01-01
+        highlights:
+          - "Host Supervisor: Prof. Daniel Garcia-Castellanos"
 
       - institution: Yunnan Agricultural University
         location: Kunming, China
