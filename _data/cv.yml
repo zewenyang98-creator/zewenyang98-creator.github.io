@@ -19,6 +19,15 @@ cv:
 
   sections:
     Education:
+      - institution: Geosciences Barcelona (Geo3BCN-CSIC)
+        location: Barcelona, Spain
+        area: Joint doctoral training and collaborative research on outburst-flood hydrodynamics, sediment transport, and geomorphic evolution.
+        studyType: Joint Ph.D. Student
+        start_date: 2026-01-01
+        end_date: 2027-01-01
+        highlights:
+          - "Host Supervisor: Prof. Daniel Garcia-Castellanos"
+
       - institution: University of Chinese Academy of Sciences
         location: Chengdu, China
         area: Geotechnical Engineering
@@ -36,17 +45,7 @@ cv:
         start_date: 2017-09-01
         end_date: 2021-06-01
         highlights:
-          - "Undergraduate Supervisor: Prof. Qiu Yong"
-
-    Experience:
-      - company: Geosciences Barcelona (Geo3BCN-CSIC)
-        position: Visiting Ph.D. Student
-        location: Barcelona, Spain
-        start_date: 2026-01-01
-        end_date: 2027-01-01
-        summary: Joint doctoral training and collaborative research on outburst-flood hydrodynamics, sediment transport, and geomorphic evolution.
-        highlights:
-          - "Host Supervisor: Prof. Daniel Garcia-Castellanos"
+          - "Undergraduate Supervisor: Prof. Yong Qiu"
 
     Research Interests:
       - bullet: Outburst-flood hydrodynamics and geomorphic impacts
