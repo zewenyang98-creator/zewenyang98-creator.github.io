@@ -18,6 +18,15 @@ nav_order: 6
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 300px;">
+    <a href="/activities/conflicted-feelings-in-barcelona/">
+      <img src="/assets/img/conflicted-feelings-in-barcelona.jpg" alt="矛盾的心情" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/conflicted-feelings-in-barcelona/"><strong>矛盾的心情</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
     <a href="/activities/after-dinner-gathering/">
       <img src="/assets/img/after-dinner-gathering-1.png" alt="晚饭后的短聚" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
     </a>
