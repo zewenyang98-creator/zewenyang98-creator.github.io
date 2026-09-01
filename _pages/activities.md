@@ -11,11 +11,33 @@ nav_order: 6
   .post-title {
     display: none;
   }
+
+  .activities-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+  }
+
+  .activities-grid > div {
+    width: auto !important;
+  }
+
+  @media (max-width: 768px) {
+    .activities-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 576px) {
+    .activities-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
 ## Group Activities
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div class="activities-grid">
 
   <div style="width: 300px;">
     <a href="/activities/model-development-journey/">
