@@ -40,6 +40,15 @@ nav_order: 6
 <div class="activities-grid">
 
   <div style="width: 300px;">
+    <a href="/activities/beer-weekend-after-submission/">
+      <img src="/assets/img/beer-weekend-after-submission-1.jpg" alt="清爽周末" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/beer-weekend-after-submission/"><strong>清爽周末</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
     <a href="/activities/model-development-journey/">
       <img src="/assets/img/model-development-journey.png" alt="模型开发的路程" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; object-position: left center; border-radius: 8px;">
     </a>
