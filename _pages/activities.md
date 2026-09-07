@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Moments
 hide_title: true
 permalink: /activities/
 nav: true
@@ -34,8 +34,6 @@ nav_order: 6
     }
   }
 </style>
-
-## Group Activities
 
 <div class="activities-grid">
 
