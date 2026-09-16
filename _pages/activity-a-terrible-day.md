@@ -4,7 +4,7 @@ title: 心情糟糕透了！
 permalink: /activities/a-terrible-day/
 ---
 
-**日期：** 2026-06-17
+**日期：** 2026-06-17&nbsp;&nbsp;星期三
 
 最近课题进展不顺，感觉压力好大，好孤独啊！
 

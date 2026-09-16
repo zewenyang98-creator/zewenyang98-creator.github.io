@@ -4,7 +4,7 @@ title: 感谢导师一家的招待
 permalink: /activities/dinner-with-my-supervisors-family/
 ---
 
-**日期：** 2026-07-29
+**日期：** 2026-07-29&nbsp;&nbsp;星期三
 
 感谢外导一家的晚餐及热情招待！她说在巴塞罗那真切地感受到了西班牙人的热情。
 

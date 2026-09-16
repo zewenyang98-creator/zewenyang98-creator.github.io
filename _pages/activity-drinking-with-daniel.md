@@ -4,7 +4,7 @@ title: Drinking with Daniel
 permalink: /activities/drinking-with-daniel/
 ---
 
-**Date:** 2026-04-02
+**Date:** 2026-04-02&nbsp;&nbsp;星期四
 
 We had a relaxed and enjoyable time having drinks and talking science together with Daniel.
 Daniel shared a lot of valuable coding experience and study skills with me.

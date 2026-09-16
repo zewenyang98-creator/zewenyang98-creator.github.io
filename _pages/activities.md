@@ -38,6 +38,15 @@ nav_order: 6
 <div class="activities-grid">
 
   <div style="width: 300px;">
+    <a href="/activities/analyzing-data-with-animation/">
+      <img src="/assets/img/data-analysis-with-gif.gif" alt="用动图分析数据" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/analyzing-data-with-animation/"><strong>用动图分析数据</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
     <a href="/activities/beer-weekend-after-submission/">
       <img src="/assets/img/beer-weekend-after-submission-1.jpg" alt="清爽周末" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
     </a>

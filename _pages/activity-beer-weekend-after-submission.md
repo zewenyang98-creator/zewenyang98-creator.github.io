@@ -4,7 +4,7 @@ title: 清爽周末
 permalink: /activities/beer-weekend-after-submission/
 ---
 
-**日期：** 2026-09-07
+**日期：** 2026-09-07&nbsp;&nbsp;星期一
 
 最近感觉自己不由自主地加快了生活和工作节奏，让我觉得有些不踏实，希望这周有所改善。
 
