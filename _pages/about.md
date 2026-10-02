@@ -75,6 +75,8 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 1rem;
+    position: relative;
+    isolation: isolate;
   }
 
   .research-landscape-card {
@@ -85,6 +87,9 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     overflow: hidden;
     border-radius: 8px;
     background: #222;
+    z-index: 0;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    will-change: transform;
   }
 
   .research-landscape-card::after {
@@ -99,11 +104,6 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.35s ease;
-  }
-
-  .research-landscape-card:hover img {
-    transform: scale(1.04);
   }
 
   .research-landscape-card figcaption {
@@ -119,9 +119,39 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65);
   }
 
+  @media (hover: hover) and (pointer: fine) {
+    .research-landscape-card {
+      cursor: zoom-in;
+    }
+
+    .research-landscape-card:hover {
+      z-index: 20;
+      transform: scale(1.35);
+      box-shadow: 0 18px 42px rgba(0, 0, 0, 0.38);
+    }
+
+    .research-landscape-card:first-child {
+      transform-origin: left center;
+    }
+
+    .research-landscape-card:last-child {
+      transform-origin: right center;
+    }
+  }
+
   @media (max-width: 900px) {
     .research-landscapes-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 900px) and (hover: hover) and (pointer: fine) {
+    .research-landscape-card:nth-child(odd) {
+      transform-origin: left center;
+    }
+
+    .research-landscape-card:nth-child(even) {
+      transform-origin: right center;
     }
   }
 
