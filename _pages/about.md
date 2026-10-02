@@ -76,7 +76,6 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 1rem;
     position: relative;
-    isolation: isolate;
   }
 
   .research-landscape-card {
@@ -98,6 +97,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     inset: 0;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.08) 55%, transparent 75%);
     pointer-events: none;
+    transition: opacity 0.2s ease;
   }
 
   .research-landscape-card img {
@@ -117,6 +117,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     font-weight: 700;
     line-height: 1.25;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65);
+    transition: opacity 0.2s ease;
   }
 
   .social .contact-note {
@@ -139,8 +140,13 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
     .research-landscape-card:hover {
       z-index: 20;
-      transform: scale(1.35);
+      transform: scale(5);
       box-shadow: 0 18px 42px rgba(0, 0, 0, 0.38);
+    }
+
+    .research-landscape-card:hover::after,
+    .research-landscape-card:hover figcaption {
+      opacity: 0;
     }
 
     .research-landscape-card:first-child {
