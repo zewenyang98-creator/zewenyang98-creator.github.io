@@ -72,6 +72,10 @@
       }
 
       .author {
+        strong {
+          font-weight: 700 !important;
+        }
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
