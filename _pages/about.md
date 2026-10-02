@@ -147,7 +147,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     }
 
     .research-landscape-card:hover img {
-      transform: scale(4);
+      transform: scale(3);
       box-shadow: 0 18px 42px rgba(0, 0, 0, 0.38);
     }
 
