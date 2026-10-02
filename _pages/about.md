@@ -119,6 +119,19 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65);
   }
 
+  .social .contact-note {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 3rem;
+    row-gap: 0.4rem;
+  }
+
+  .social .contact-detail {
+    white-space: nowrap;
+  }
+
   @media (hover: hover) and (pointer: fine) {
     .research-landscape-card {
       cursor: zoom-in;
