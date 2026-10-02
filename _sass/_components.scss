@@ -99,6 +99,22 @@ ul.task-list input[type="checkbox"] {
     font-size: 1rem;
     font-weight: 700;
   }
+
+  .post-header .chinese-name {
+    display: inline-block;
+    margin-left: 0.35em;
+    font-size: 0.65em;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+
+  // Justify only the two research-summary paragraphs on the homepage.
+  .about-bio > p:nth-of-type(-n + 2) {
+    text-align: justify;
+    text-align-last: left;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
 }
 
 // CV
