@@ -34,3 +34,100 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
 
 **Affiliation: Institute of Mountain Hazards and Environment, Chinese Academy of Sciences**
+
+<section class="research-landscapes" aria-labelledby="research-landscapes-title">
+  <h2 id="research-landscapes-title">Research Landscapes</h2>
+
+  <div class="research-landscapes-grid">
+    <figure class="research-landscape-card">
+      <img src="/assets/img/research-glacier-lake-breach.jpg" alt="Glacier lake and surrounding snow-covered mountains" loading="lazy">
+      <figcaption>Glacier Lake breach</figcaption>
+    </figure>
+
+    <figure class="research-landscape-card">
+      <img src="/assets/img/research-river-morphodynamics.jpg" alt="Gravel-bed mountain river and surrounding valley" loading="lazy">
+      <figcaption>Outburst-Flood River Morphology</figcaption>
+    </figure>
+
+    <figure class="research-landscape-card">
+      <img src="/assets/img/research-outburst-flood-deposits.jpg" alt="Thick deposits shaped by an outburst flood" loading="lazy">
+      <figcaption>Outburst flood deposits</figcaption>
+    </figure>
+
+    <figure class="research-landscape-card">
+      <img src="/assets/img/research-martian-outburst-floods.jpg" alt="Reconstruction of a lake and outflow channels on Mars" loading="lazy">
+      <figcaption>Martian Outburst Floods</figcaption>
+    </figure>
+  </div>
+</section>
+
+<style>
+  .research-landscapes {
+    clear: both;
+    margin: 2.5rem 0 3rem;
+  }
+
+  .research-landscapes h2 {
+    margin-bottom: 1.25rem;
+  }
+
+  .research-landscapes-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .research-landscape-card {
+    position: relative;
+    min-width: 0;
+    margin: 0;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #222;
+  }
+
+  .research-landscape-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.08) 55%, transparent 75%);
+    pointer-events: none;
+  }
+
+  .research-landscape-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.35s ease;
+  }
+
+  .research-landscape-card:hover img {
+    transform: scale(1.04);
+  }
+
+  .research-landscape-card figcaption {
+    position: absolute;
+    left: 1rem;
+    right: 1rem;
+    bottom: 0.85rem;
+    z-index: 1;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.25;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65);
+  }
+
+  @media (max-width: 900px) {
+    .research-landscapes-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 576px) {
+    .research-landscapes-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
