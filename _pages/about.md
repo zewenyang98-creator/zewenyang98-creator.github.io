@@ -56,7 +56,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
     <figure class="research-landscape-card">
       <img src="/assets/img/research-martian-outburst-floods.jpg" alt="Reconstruction of a lake and outflow channels on Mars" loading="lazy">
-      <figcaption>Martian Outburst Floods</figcaption>
+      <figcaption>Martian Outburst Flood</figcaption>
     </figure>
   </div>
 </section>
@@ -87,8 +87,6 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
     border-radius: 8px;
     background: #222;
     z-index: 0;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    will-change: transform;
   }
 
   .research-landscape-card::after {
@@ -101,9 +99,14 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
   }
 
   .research-landscape-card img {
+    position: relative;
+    z-index: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    will-change: transform;
   }
 
   .research-landscape-card figcaption {
@@ -140,20 +143,19 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
     .research-landscape-card:hover {
       z-index: 20;
-      transform: scale(5);
+      overflow: visible;
+    }
+
+    .research-landscape-card:hover img {
+      transform: scale(8);
       box-shadow: 0 18px 42px rgba(0, 0, 0, 0.38);
     }
 
-    .research-landscape-card:hover::after,
-    .research-landscape-card:hover figcaption {
-      opacity: 0;
-    }
-
-    .research-landscape-card:first-child {
+    .research-landscape-card:first-child img {
       transform-origin: left center;
     }
 
-    .research-landscape-card:last-child {
+    .research-landscape-card:last-child img {
       transform-origin: right center;
     }
   }
@@ -165,11 +167,11 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
   }
 
   @media (max-width: 900px) and (hover: hover) and (pointer: fine) {
-    .research-landscape-card:nth-child(odd) {
+    .research-landscape-card:nth-child(odd) img {
       transform-origin: left center;
     }
 
-    .research-landscape-card:nth-child(even) {
+    .research-landscape-card:nth-child(even) img {
       transform-origin: right center;
     }
   }
