@@ -151,6 +151,11 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
       box-shadow: 0 18px 42px rgba(0, 0, 0, 0.38);
     }
 
+    .research-landscape-card:hover::after,
+    .research-landscape-card:hover figcaption {
+      opacity: 0;
+    }
+
     .research-landscape-card:first-child img {
       transform-origin: left center;
     }
