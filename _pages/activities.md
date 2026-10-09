@@ -22,6 +22,11 @@ nav_order: 6
     width: auto !important;
   }
 
+  .activities-grid > div > p {
+    margin: 10px 0 0 !important;
+    text-align: center;
+  }
+
   @media (max-width: 768px) {
     .activities-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -36,6 +41,15 @@ nav_order: 6
 </style>
 
 <div class="activities-grid">
+
+  <div style="width: 300px;">
+    <a href="/activities/waiting-for-news/">
+      <img src="/assets/img/waiting-for-news.jpg" alt="窗外晴朗安静的校园景色" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/waiting-for-news/"><strong>等待的日子</strong></a>
+    </p>
+  </div>
 
   <div style="width: 300px;">
     <a href="/activities/analyzing-data-with-animation/">
