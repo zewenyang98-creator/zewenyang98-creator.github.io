@@ -52,6 +52,15 @@ nav_order: 6
   </div>
 
   <div style="width: 300px;">
+    <a href="/activities/international-food-exchange/">
+      <img src="/assets/img/international-food-exchange.jpg" alt="课题组成员分享各国食物" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/international-food-exchange/"><strong>课题组国际饮食交流</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
     <a href="/activities/friday-group-gathering/">
       <img src="/assets/img/friday-group-gathering.jpg" alt="课题组成员周五聚会合影" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
     </a>
