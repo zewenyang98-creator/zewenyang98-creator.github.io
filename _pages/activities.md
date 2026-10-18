@@ -43,6 +43,15 @@ nav_order: 6
 <div class="activities-grid">
 
   <div style="width: 300px;">
+    <a href="/activities/weekend-notes/">
+      <img src="/assets/img/weekend-notes.jpg" alt="咖啡厅内的电脑、平板和咖啡" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
+    </a>
+    <p style="margin-top: 10px; font-size: 1.1em;">
+      <a href="/activities/weekend-notes/"><strong>周末随记</strong></a>
+    </p>
+  </div>
+
+  <div style="width: 300px;">
     <a href="/activities/friday-group-gathering/">
       <img src="/assets/img/friday-group-gathering.jpg" alt="课题组成员周五聚会合影" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
     </a>
