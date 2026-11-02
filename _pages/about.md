@@ -46,7 +46,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
     <figure class="research-landscape-card">
       <img src="/assets/img/research-river-morphodynamics.jpg" alt="Gravel-bed mountain river and surrounding valley" loading="lazy">
-      <figcaption>Outburst-Flood River Morphology</figcaption>
+      <figcaption>Outburst Flood Landforms</figcaption>
     </figure>
 
     <figure class="research-landscape-card">
