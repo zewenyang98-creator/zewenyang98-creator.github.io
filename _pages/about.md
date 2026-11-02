@@ -112,13 +112,14 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
   .research-landscape-card figcaption {
     position: absolute;
     left: 0.65rem;
-    right: 1rem;
+    right: 0.65rem;
     bottom: 0.85rem;
     z-index: 1;
     color: #fff;
     font-size: 0.9rem;
     font-weight: 700;
     line-height: 1.25;
+    text-align: center;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65);
     transition: opacity 0.2s ease;
   }
