@@ -41,7 +41,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
   <div class="research-landscapes-grid">
     <figure class="research-landscape-card">
       <img src="/assets/img/research-glacier-lake-breach.jpg" alt="Glacier lake and surrounding snow-covered mountains" loading="lazy">
-      <figcaption>Glacier Lake breach</figcaption>
+      <figcaption>Glacier Lake Breach</figcaption>
     </figure>
 
     <figure class="research-landscape-card">
@@ -51,7 +51,7 @@ I mainly study catastrophic outburst floods on Earth, and I also extend this wor
 
     <figure class="research-landscape-card">
       <img src="/assets/img/research-outburst-flood-deposits.jpg" alt="Thick deposits shaped by an outburst flood" loading="lazy">
-      <figcaption>Outburst flood deposits</figcaption>
+      <figcaption>Outburst Flood Deposits</figcaption>
     </figure>
 
     <figure class="research-landscape-card">
